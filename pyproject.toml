@@ -1,0 +1,14 @@
+[project]
+name = "vice-squad"
+version = "0.1.0"
+description = "No plea bargains, just clean numbers."
+readme = "README.md"
+authors = [
+    { name = "xywei", email = "xywei@protonmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
