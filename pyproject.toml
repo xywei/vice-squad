@@ -2,6 +2,7 @@
 name = "vice-squad"
 version = "0.1.0"
 description = "No plea bargains, just clean numbers."
+license = { file = "LICENSE" }
 readme = "README.md"
 authors = [
     { name = "Jacob Xiaoyu Wei", email = "xywei@protonmail.com" }

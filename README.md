@@ -27,7 +27,7 @@ It works for 1-D lines, 2-D surfaces, or 3-D volumes and drops in next to `scipy
 
 ```bash
 pip install vice-squad        # coming soon to PyPI
-````
+```
 
 or, for the bleeding edge:
 
