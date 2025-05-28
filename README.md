@@ -39,6 +39,8 @@ pip install git+https://github.com/your-org/vice-squad.git
 
 ## 🚀 Quick Start
 
+[**Documentation**](https://xywei.github.io/vice-squad/)
+
 ```python
 import numpy as np
 import vice_squad as vs
